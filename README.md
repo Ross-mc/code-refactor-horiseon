@@ -10,7 +10,7 @@ An existing webpage requires refactoring so that the page meets the following re
 
 ## Screenshot
 
-(screenshot tbc)
+![Screenshot of the webpage](/assets/images/screenshot.jpg)
 
 ## Live page
 
